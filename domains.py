@@ -9949,6 +9949,7 @@ domains = [
     "luilkkgtq43q1a6mtl.tk",
     "luisgiisjsk.tk",
     "luk2.com",
+    "lukaat.com",
     "lukop.dk",
     "lulumelulu.org",
     "luminario.com",
