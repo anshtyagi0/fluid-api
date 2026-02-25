@@ -1,2 +1,2 @@
 # fluid-api
-Multipurpose API
+Multipurpose API for Discord bots and other applications
